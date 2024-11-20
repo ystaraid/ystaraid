@@ -78,6 +78,4 @@ Here are some of the projects I've worked on during my university years:
 
 ## 📫 Let's Connect!
 
-- 💬 **Email**: your.email@example.com  
-- 🌐 **Portfolio**: [My Website](https://yourwebsite.com)  
-- 💼 **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/yourusername)  
+- 💬 **Email**: ystaraid@gmail.com 
