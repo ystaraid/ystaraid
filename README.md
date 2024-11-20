@@ -1,12 +1,11 @@
 # 👋 Hi there! I'm ystaraid!
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Student+at+Chung-Ang+University;Love+Technology+%26+Art;Aspiring+Creative+Technologist)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23154360&lines=Student+at+Chung-Ang+University;Love+Technology+%26+Art;Aspiring+Creative+Technologist)
 
-
-💻 I am a student at Chung-Ang University who loves technology.
-🎨 I love combining **art and technology** to create meaningful experiences. 
-💡 I'm an aspiring **Creative Technologist** combining technology and art to create meaningful experiences.  
-🌟 My passion lies in **coding, digital art, and interactive media**.
+-💻 I am a student at Chung-Ang University who loves technology.
+-🎨 I love combining **art and technology** to create meaningful experiences. 
+-💡 I'm an aspiring **Creative Technologist** combining technology and art to create meaningful experiences.  
+-🌟 My passion lies in **coding, digital art, and interactive media**.
 
 ## 📹 Here's a short video about me
 [![Watch the video](https://img.youtube.com/vi/3jRJGGMk0o0/0.jpg)](https://www.youtube.com/watch?v=3jRJGGMk0o0)
@@ -63,6 +62,7 @@ Here are some of the projects I've worked on so far:
 4. **🌐 VR & AR Content Creation with CoSpaces**
    - Developed simple VR games and AR content using **CoSpaces**.
    - Designed immersive environments to explore interactive storytelling.
+   - Click [here](https://www.youtube.com/watch?v=8zjWVIAnhlc) to watch the video.
    - **Skills Used**: CoSpaces
 
 ---
@@ -84,6 +84,23 @@ Here are some of the projects I've worked on so far:
    - 🛞 Choose the **right type of wheels** for various terrains and challenges.
    - 🔗 Build and utilize **universal joints** to transfer motion effectively between different axes.
    - 🌀 Solve problems by using elastic materials like **rubber bands** to store and release energy.
+---
+## 🏆 My FLL Competition Experience
+
+I had the privilege of participating in the **FIRST LEGO League (FLL)** competitions during **5th and 6th grade** in elementary school, and again in **1st and 2nd grade** in middle school. While the challenges were tough, these experiences were incredibly rewarding and taught me valuable skills.
+
+### 🔹 What I Learned
+- **Problem-solving through science projects**: I identified real-world problems and devised solutions by working through scientific processes.
+- **Robot coding and debugging**:
+  - Logged and analyzed data to identify and resolve issues.
+  - Used a **gyro sensor** to correct the robot's navigation and improve its accuracy.
+  - Explored **PID control** to fine-tune robot movements, gaining a foundational understanding of advanced control systems.
+- **Practical applications of math**:
+  - Learned coordinate programming and its practical use before encountering trigonometry in school, which made later studies more intuitive.
+
+### 🔹 Key Takeaway
+These experiences taught me to approach concepts by understanding their practical uses first. By learning **how** and **why** to apply these principles, I developed a deeper understanding and appreciation for science and technology. The FLL competitions also fostered my curiosity and passion for **robotics and problem-solving**.
+
 ---
 
 
