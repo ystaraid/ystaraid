@@ -5,11 +5,15 @@
 💡 I'm an aspiring **Creative Technologist** combining technology and art to create meaningful experiences.  
 🌟 My passion lies in **coding, digital art, and interactive media**.
 
+## 📹 Here's a short video about me
+[![Watch the video](https://img.youtube.com/vi/3jRJGGMk0o0/0.jpg)](https://www.youtube.com/watch?v=3jRJGGMk0o0)
+
 ---
 
 ## 🎓 Academic Projects
 
-Here are some of the projects I've worked on during my university years:
+As a student, I may not have much experience yet, but I have a strong desire to **learn** and **grow**.  
+Here are some of the projects I've worked on so far:
 
 1. **🇺🇳 Drawing Flags with Python Turtle**
    - Created an interactive program to draw various country flags using Python Turtle.
@@ -33,7 +37,7 @@ Here are some of the projects I've worked on during my university years:
 4. **🌐 VR & AR Content Creation with CoSpaces**
    - Developed simple VR games and AR content using **CoSpaces**.
    - Designed immersive environments to explore interactive storytelling.
-   - **Skills Used**: CoSpaces, Basic Game Design
+   - **Skills Used**: CoSpaces
 
 ---
 
