@@ -8,6 +8,8 @@
 ## 📹 Here's a short video about me
 [![Watch the video](https://img.youtube.com/vi/3jRJGGMk0o0/0.jpg)](https://www.youtube.com/watch?v=3jRJGGMk0o0)
 
+![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ystaraid/ystaraid&title=Page+Views&color=blue&style=flat-square)
+
 ---
 
 ## 🎓 Academic Projects
