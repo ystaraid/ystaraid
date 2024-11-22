@@ -2,10 +2,10 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23154360&lines=Student+at+Chung-Ang+University;Love+Technology+%26+Art;Aspiring+Creative+Technologist)
 
--💻 I am a student at Chung-Ang University who loves technology.
--🎨 I love combining **art and technology** to create meaningful experiences. 
--💡 I'm an aspiring **Creative Technologist** combining technology and art to create meaningful experiences.  
--🌟 My passion lies in **coding, digital art, and interactive media**.
+- 💻 I am a student at Chung-Ang University who loves technology.  
+- 🎨 I love combining **art and technology** to create meaningful experiences.  
+- 💡 I'm an aspiring **Creative Technologist** combining technology and art to create meaningful experiences.  
+- 🌟 My passion lies in **coding, digital art, and interactive media**.  
 
 ## 📹 Here's a short video about me
 [![Watch the video](https://img.youtube.com/vi/3jRJGGMk0o0/0.jpg)](https://www.youtube.com/watch?v=3jRJGGMk0o0)
@@ -14,7 +14,7 @@
 
 ---
 
-## 💻 Skills & Tools
+## 💻 Skills & Tools (Tech Stack)
 
 ### **Programming Languages**
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
@@ -114,7 +114,45 @@ These experiences taught me to approach concepts by understanding their practica
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Contacts
 
-- 💬 **Email**: ystaraid@gmail.com
-- - **GitHub**: [GitHub Profile](https://github.com/ystaraid)  
+Are you working on an innovative project? I would be delighted to collaborate.  
+With experience in **robotics**, **VR/AR development**, and **creative technology**, I offer a unique perspective that integrates **art and technology** to address challenges and deliver meaningful outcomes.
+
+Here’s what I can offer in collaboration:
+- 🤖 Expertise in **robotics**: Problem-solving, programming, and debugging.  
+- 🎮 **VR/AR development**: Crafting interactive and immersive experiences.  
+- 🎨 Creativity with **3D modeling and digital art**: Skilled in tools like Maya and Cinema 4D.  
+
+If you’re interested in pushing boundaries together, feel free to contact me:  
+- 💬 **Email**: ystaraid@gmail.com  
+- 🔗 **GitHub**: [GitHub Profile](https://github.com/ystaraid)  
+- 🌟 Let’s create impactful and innovative projects together!
+
+---
+
+## 📊 GitHub Stats
+
+### **General Stats**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ystaraid&show_icons=true&theme=radical)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ystaraid&theme=radical)
+
+### **Top Languages**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ystaraid&layout=compact&theme=radical)
+
+### **Contribution Activity**
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ystaraid&theme=dracula)
+
+### **Commit History**
+![Commits per Day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ystaraid&theme=radical&utcOffset=9)
+
+### **Pull Request Stats**
+![Pull Requests](https://github-profile-summary-cards.vercel.app/api/cards/pull-requests?username=ystaraid&theme=radical)
+
+### **Repositories Summary**
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ystaraid&theme=radical)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ystaraid&theme=radical)
+
+### **Contribution Snake**
+![GitHub Snake Animation](https://github.com/ystaraid/ystaraid/blob/output/github-contribution-grid-snake.svg)
+
