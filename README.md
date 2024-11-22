@@ -2,15 +2,27 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23154360&lines=Student+at+Chung-Ang+University;Love+Technology+%26+Art;Aspiring+Creative+Technologist)
 
-- 💻 I am a student at Chung-Ang University who loves technology.  
-- 🎨 I love combining **art and technology** to create meaningful experiences.  
-- 💡 I'm an aspiring **Creative Technologist** combining technology and art to create meaningful experiences.  
-- 🌟 My passion lies in **coding, digital art, and interactive media**.  
+## 🌟 About Me
+
+Hello! I’m a student at **Chung-Ang University**, majoring in **Art & Technology**.  
+I have a deep passion for exploring the intersection of **art and engineering**, and I love creating meaningful, immersive experiences.  
+
+### 🎨 Interests & Hobbies
+- **Technology**: Fascinated by **electronics**, **robotics**, and **coding**. I enjoy problem-solving in fields like **mechanical engineering**, **math**, and **physics**.  
+- **Art**: Passionate about **video editing**, **3D modeling**, and exploring creative storytelling through **immersive media**.  
+- **K-pop Enthusiast**: I love analyzing music videos, especially how they integrate visuals with storytelling.  
+- **Immersive Content**: Always excited about VR/AR and the future of the metaverse.  
+
+### 💡 Personality Traits
+- **Analytical Thinker**: I enjoy breaking down complex concepts and organizing them logically.  
+- **Focused Learner**: I immerse myself deeply in a single field to fully master it.  
+- **Objective & Detail-Oriented**: I value clear, factual, and structured work.  
+- **Collaborative Spirit**: While I prefer working alone, I enjoy collaborating with truly skilled individuals.  
+- **Natural Teacher**: I love sharing knowledge and explaining concepts to others.  
+- **Confident Communicator**: I am not afraid to share my opinions and stand by my ideas.  
 
 ## 📹 Here's a short video about me
 [![Watch the video](https://img.youtube.com/vi/3jRJGGMk0o0/0.jpg)](https://www.youtube.com/watch?v=3jRJGGMk0o0)
-
-![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ystaraid/ystaraid&title=Page+Views&color=blue&style=flat-square)
 
 ---
 
@@ -103,9 +115,6 @@ These experiences taught me to approach concepts by understanding their practica
 
 ---
 
-
-
-
 ## 🎯 Future Goals
 
 🌱 I aim to:
@@ -132,6 +141,7 @@ If you’re interested in pushing boundaries together, feel free to contact me:
 ---
 
 ## 📊 GitHub Stats
+![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ystaraid/ystaraid&title=Page+Views&color=blue&style=flat-square)
 
 ### **General Stats**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ystaraid&show_icons=true&theme=radical)
@@ -140,19 +150,12 @@ If you’re interested in pushing boundaries together, feel free to contact me:
 ### **Top Languages**
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ystaraid&layout=compact&theme=radical)
 
-### **Contribution Activity**
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ystaraid&theme=dracula)
-
 ### **Commit History**
 ![Commits per Day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ystaraid&theme=radical&utcOffset=9)
-
-### **Pull Request Stats**
-![Pull Requests](https://github-profile-summary-cards.vercel.app/api/cards/pull-requests?username=ystaraid&theme=radical)
 
 ### **Repositories Summary**
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ystaraid&theme=radical)
 ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ystaraid&theme=radical)
 
-### **Contribution Snake**
-![GitHub Snake Animation](https://github.com/ystaraid/ystaraid/blob/output/github-contribution-grid-snake.svg)
-
+---
+한국어 -> 영어 번역에는 ChatGPT를 사용했습니다 
