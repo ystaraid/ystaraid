@@ -5,7 +5,7 @@
 ## 🌟 About Me
 
 Hello! I’m a student at **Chung-Ang University**, majoring in **Art & Technology**.  
-I have a deep passion for exploring the intersection of **art and engineering**, and I love creating meaningful, immersive experiences.  
+I have a deep passion for exploring the intersection of **art and technology**, and I love creating meaningful, immersive experiences.  
 
 ### 🎨 Interests & Hobbies
 - **Technology**: Fascinated by **electronics**, **robotics**, and **coding**. I enjoy problem-solving in fields like **mechanical engineering**, **math**, and **physics**.  
@@ -135,7 +135,9 @@ Here’s what I can offer in collaboration:
 
 If you’re interested in pushing boundaries together, feel free to contact me:  
 - 💬 **Email**: ystaraid@gmail.com  
-- 🔗 **GitHub**: [GitHub Profile](https://github.com/ystaraid)  
+- 🔗 **GitHub**: [GitHub Profile](https://github.com/ystaraid)
+- 📸 **Instagram**: ystaraid_05
+- 📹 **Youtube**: https://www.youtube.com/@%EC%9C%A4%EC%84%B1%ED%95%84-v5u
 - 🌟 Let’s create impactful and innovative projects together!
 
 ---
